@@ -1,11 +1,11 @@
 module.exports = [
- 'Visible MFer Frens NFT',
- 'VMFFNFT',
+ 'Poker Tour Of America NFT',
+ 'PTOANFT',
  
     '0x9C3f261e2cc4C88DfaC56A5B46cdbf767eE2f231',
     '0xc01aC67ba14F13Af4fCD5b4ba3784F39a703cda0',
-    'https://public-pre-ipfs.s3.amazonaws.com/VisibleMFerFrens/json/',
-    'https://public-pre-ipfs.s3.amazonaws.com/VisibleMFerFrens/assets/Unreveal.json',
+    'https://public-pre-ipfs.s3.amazonaws.com/PTOA/json/',
+    'https://public-pre-ipfs.s3.amazonaws.com/PTOA/assets/Unreveal.json',
 
     [
         ethers.utils.getAddress('0x2dE0A2c9CdCE9B0215d87b7CD78533A51cf847d7'),
